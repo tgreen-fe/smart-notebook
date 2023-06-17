@@ -1,0 +1,2 @@
+1. Start dSyncronize Job 1
+2. Start MAMP
