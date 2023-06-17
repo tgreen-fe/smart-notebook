@@ -1,0 +1,22 @@
+:
+ Smart notebook
+ not working with
+ delect file upload
+ Auto
+ Instead:
+ file watcher power sheel.
+ File uploads to icloud
+ ↓ to detect
+ + task scheuuter
+ Sync Toy
+ file upload and harsfur file to
+ folder ..
+ ↓
+ Power shell Script in to perform action (
+ 11
+ C - GPT commends on file)
+ every time
+ file is uploaded.
+ Pytlos script to upload new Contents
+ page blage web server.
+ 18
