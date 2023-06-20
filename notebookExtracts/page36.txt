@@ -1,0 +1,10 @@
+ Vine Robot - key Points 20/06/23
+ Stanford origin
+ Inflatable actuator expands through
+ " buried ducting.
+ Early model -prototype.
+ Drag fibres, clear loose blocages
+ and
+ navigate congested ducting.
+. Two iterations so far.
+ 36
