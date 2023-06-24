@@ -1,0 +1,5 @@
+python C:\Users\tbbgr\iCloudDrive\Home Projects\smartNotebook\imageProcessing\web2pdf.py
+
+cmd.exe /c "convert screenshot.png -crop 800x480+0+0 screenshot800480.png"
+
+
