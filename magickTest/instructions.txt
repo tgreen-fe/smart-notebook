@@ -1,0 +1,36 @@
+Create palette:
+
+magick xc:red xc:white xc:black +append palette.gif
+
+Image Dithering:
+
+magick input_image.png -remap palette.gif result_image.png
+
+Run splitImage.py
+
+Convert layers to XBM
+
+convert layer_0.png -resize 800x480 layer_0.xbm
+
+
+convert layer_1.png -resize 800x480 layer_1.xbm
+
+Copy xmm to ImageData.c
+
+^^^^^^^ NOT ALL ABOVE IS REQUIRED ^^^^^^^^^^^^^
+
+Run python script:web2pdf.py - this takes a screen shot of webpage and saves it as a png.
+
+Next:
+
+convert screenshot.png -crop 800x480+0+0 screenshot800480.png
+
+Next:
+
+Image Dithering??
+
+Next:
+
+Convert image to cpp array (in progress - potential use image_to_epaper_converter
+
+
