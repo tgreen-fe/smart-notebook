@@ -1,0 +1,22 @@
+
+<!DOCTYPE html>
+<html>
+
+<body>
+<div id="capture" style="padding: 10px; background: #f5da55">
+    <h4 style="color: #000; ">Hello world!</h4>
+	
+	<p align='center'><iframe src="https://free.timeanddate.com/clock/i8w2o678/n136/tluk/ftb/th1/ts1" frameborder="0" width="38" height="18"></iframe></p>
+
+</div>
+
+<script src="html2canvas.min.js"></script>
+
+<script>
+html2canvas(document.querySelector("#capture")).then(canvas => {
+    document.body.appendChild(canvas)
+});
+</script>
+
+</body>
+</html>
