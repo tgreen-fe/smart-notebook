@@ -1,0 +1,54 @@
+M
+G xbm file fo ...
+D
+Debuggin ..
+scheduler and Python, for file upload,
+synchronization, hash generation and webpage
+update. PowerShell and Python scripts are used to
+perform certain actions on uploaded files.
+"Inflatable Vine Robot Clears Duct
+Blockages."
+36
+20/06/23 - The Vine Robot is an inflatable
+prototype developed at Stanford that can navigate
+and clear blockages in buried ducting using drag
+fibers. Two iterations of the robot have been
+created with the latest measuring at 36".
+Analysis of ADAMAS workshop
+findings.
+34
+01/01/1999 - The passage discusses the
+ADAMAS 1-year workshop, which aims to
+analyze more use cases and sectors, focusing on
+price breakdown between Stack Path and their
+own solution. It also mentions typical costs for
+Accenture NIT Data and AWS costs for Outposts.
+which amount to $34.
+"Amazon Fresh: Checkout-Less
+Shopping Model"
+37
+20/06/28 - The passage discusses Amazon's
+checkout-less stores and its approach to making
+the customer experience as smooth as possible.
+including no charge for eatry, no shoplifting
+checks, and using cloud or edge processing for
+transactions. The potential for success is tempered
+by potential difficulties for first-time users and the
+need for manual human review of footage. The
+passage also mentions a question regarding why
+an Amazon account with a QR code is required
+instead of a credit card.
+"Amazon's high-tech stores track
+customers"
+01/01/1999 - The passage discusses the use of
+weight sensors and calneras in tracking objects at
+Greenfield stores, and how retrofitting existing
+stores can be challenging. Amazon licenses their
+technology and builds their entry/exit doors in-
+house, but privacy concerns arise from the use of
+cameras. Shoplifting at these stores is difficult due
+to technology and the use of Amazon accounts,
+and the experience for customers goes up
+massively. The UK has a worse shoplifting
+problem than the US.
+1
