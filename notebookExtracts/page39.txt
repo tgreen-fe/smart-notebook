@@ -1,0 +1,27 @@
+Retail-ADAMAS
+27/06/23
+· Many locations but spread across UK.
+· Lower revenue per location
+00
+Retail represents the largest market - but
+fragmented nature adds implementation barriers
+- --- - -- -
+-
+-
+-
+-
+ADAMAS - Weekly Update (27/06/23)
+· Can deploy into a site but also
+can be deployed in the far- edge.
+Technologies/usecases
+that can support both
+Architecture 7 near edge (AE data centres)
+for edge (May require on-prem
+processing (sensitive data)
++ for coge por bulk of
+data )
+rugpartised
+hardware
+Reliability, latency, data sovreignty, bandwidth
+Power saving!
+39
